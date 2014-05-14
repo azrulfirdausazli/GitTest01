@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AB158EF4-DCE6-492F-ABF4-7FA0ABCFD4B8}</ProjectGuid>
+    <ProjectGuid>{C414CEDC-9CA9-4A4F-B87B-BD74F3A7678A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GIT01</RootNamespace>
-    <AssemblyName>GIT01</AssemblyName>
+    <RootNamespace>Git02</RootNamespace>
+    <AssemblyName>Git02</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

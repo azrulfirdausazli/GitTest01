@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GIT01
+namespace Git02
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("The Rock Is Funny");
         }
     }
 }
